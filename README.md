@@ -17,16 +17,17 @@ Au cours de ce projet réalisé en binôme, nous avons dû modéliser et coder e
 Ce projet a été réalisé durant ma première année de BUT, c'était donc ma première expérience en Java.  
 
 ### 2. **Développement d'une application web**  
-L'université Sorbonne Paris Nord héberge une collection de près de 17 000 jeux de société dont certains remontent au XIXe siècle. Une partie (le legs initial) a été indexée dans un fichier Excel unique, qui ne répond pas aux besoins de l'équipe en charge de la curation.  
-
-### 3. **Organisation d'un travail d'équipe**  
-Ce projet a eu lieu pendant ma première année de BUT, et c'était ma première expérience en création de site web. Nous avons travaillé sur le concours d'élégance automobile d'Enghien-les-Bains, en collectant des données pour organiser le "prochain" événement, puis en créant le site, les affiches et le programme, en appliquant des compétences en gestion de projet, codage (HTML, CSS, JS) et graphisme. 
+L'université Sorbonne Paris Nord héberge une collection de près de 17 000 jeux de société dont certains remontent au XIXe siècle. Une partie (le legs initial) a été indexée dans un fichier Excel unique, qui ne répond pas aux besoins de l'équipe en charge de la curation. 
 
 Dans ce projet, il s'agissait de :  
 - Développer une application web.  
 - Nettoyer les données contenues dans le fichier Excel.  
 - Les importer dans une base de données.  
 - Gérer l'inventaire directement depuis l'application web.  
+ 
+
+### 3. **Organisation d'un travail d'équipe**  
+Ce projet a eu lieu pendant ma première année de BUT, et c'était ma première expérience en création de site web. Nous avons travaillé sur le concours d'élégance automobile d'Enghien-les-Bains, en collectant des données pour organiser le "prochain" événement, puis en créant le site, les affiches et le programme, en appliquant des compétences en gestion de projet, codage (HTML, CSS, JS) et graphisme. 
 
 ## ⚠️ Note importante :  
 Certains projets incluent des données ou fichiers privés, notamment ceux réalisés dans un cadre académique.  
